@@ -44,12 +44,3 @@ class Student:
             print(row)
 
         print("***...Data...***")
-
-
-
-# main() function
-S = Student()
-S.insert(123, 'Sandesh', 'Pune')
-S.update(456, 'Ajay','Mumbai')
-S.delete(123,)
-S.fecth_all()
